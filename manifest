@@ -1,0 +1,20 @@
+{
+  "name": "Hierarchy Tree",
+  "description": "Tree hierarchy visualization",
+  "resources": {
+    "js": ["script.js"],
+    "css": ["style.css"]
+  },
+  "data": {
+    "dimensions": [
+      {
+        "id": "parent",
+        "label": "Parent"
+      },
+      {
+        "id": "child",
+        "label": "Child"
+      }
+    ]
+  }
+}
